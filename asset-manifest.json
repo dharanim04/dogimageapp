@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dogimageapp/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/dogimageapp/static/js/main.58407687.chunk.js",
-    "main.js.map": "/dogimageapp/static/js/main.58407687.chunk.js.map",
+    "main.js": "/dogimageapp/static/js/main.7c3d9e6d.chunk.js",
+    "main.js.map": "/dogimageapp/static/js/main.7c3d9e6d.chunk.js.map",
     "runtime-main.js": "/dogimageapp/static/js/runtime-main.773fa61a.js",
     "runtime-main.js.map": "/dogimageapp/static/js/runtime-main.773fa61a.js.map",
     "static/js/2.517c477f.chunk.js": "/dogimageapp/static/js/2.517c477f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.773fa61a.js",
     "static/js/2.517c477f.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.58407687.chunk.js"
+    "static/js/main.7c3d9e6d.chunk.js"
   ]
 }
