@@ -28,6 +28,7 @@ export class Dog extends React.Component {
         <button onClick={this.handleClick}>
           I'm more of a {this.state.animal === "dog" ? "cat" : "dog"} person!
         </button>
+        <h3>hi This is Dharani</h3>
       </div>
     );
   }
