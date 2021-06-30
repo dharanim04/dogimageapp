@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactdebrief1/dogimageapp/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/reactdebrief1/dogimageapp/static/js/main.58407687.chunk.js",
-    "main.js.map": "/reactdebrief1/dogimageapp/static/js/main.58407687.chunk.js.map",
-    "runtime-main.js": "/reactdebrief1/dogimageapp/static/js/runtime-main.897e6d59.js",
-    "runtime-main.js.map": "/reactdebrief1/dogimageapp/static/js/runtime-main.897e6d59.js.map",
-    "static/js/2.517c477f.chunk.js": "/reactdebrief1/dogimageapp/static/js/2.517c477f.chunk.js",
-    "static/js/2.517c477f.chunk.js.map": "/reactdebrief1/dogimageapp/static/js/2.517c477f.chunk.js.map",
-    "static/js/3.1706d3aa.chunk.js": "/reactdebrief1/dogimageapp/static/js/3.1706d3aa.chunk.js",
-    "static/js/3.1706d3aa.chunk.js.map": "/reactdebrief1/dogimageapp/static/js/3.1706d3aa.chunk.js.map",
-    "index.html": "/reactdebrief1/dogimageapp/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/reactdebrief1/dogimageapp/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.517c477f.chunk.js.LICENSE.txt": "/reactdebrief1/dogimageapp/static/js/2.517c477f.chunk.js.LICENSE.txt"
+    "main.css": "/dogimageapp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/dogimageapp/static/js/main.58407687.chunk.js",
+    "main.js.map": "/dogimageapp/static/js/main.58407687.chunk.js.map",
+    "runtime-main.js": "/dogimageapp/static/js/runtime-main.773fa61a.js",
+    "runtime-main.js.map": "/dogimageapp/static/js/runtime-main.773fa61a.js.map",
+    "static/js/2.517c477f.chunk.js": "/dogimageapp/static/js/2.517c477f.chunk.js",
+    "static/js/2.517c477f.chunk.js.map": "/dogimageapp/static/js/2.517c477f.chunk.js.map",
+    "static/js/3.1706d3aa.chunk.js": "/dogimageapp/static/js/3.1706d3aa.chunk.js",
+    "static/js/3.1706d3aa.chunk.js.map": "/dogimageapp/static/js/3.1706d3aa.chunk.js.map",
+    "index.html": "/dogimageapp/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/dogimageapp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.517c477f.chunk.js.LICENSE.txt": "/dogimageapp/static/js/2.517c477f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.897e6d59.js",
+    "static/js/runtime-main.773fa61a.js",
     "static/js/2.517c477f.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.58407687.chunk.js"
